@@ -1,0 +1,17 @@
+{
+  "name": "warframe_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^3.17.0",
+    "nano": "^6.4.2",
+    "request": "^2.83.0",
+    "require": "^2.4.20"
+  }
+}
